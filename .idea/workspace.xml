@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2381293d-baed-45ae-a204-77fd6036f0ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2381293d-baed-45ae-a204-77fd6036f0ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHELLCHECK.PATH": "I do mind",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/dev/PycharmProjects/JobAppTracker",
     "node.js.detected.package.eslint": "true",
@@ -105,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749048726613</updated>
       <workItem from="1749048727721" duration="360000" />
-      <workItem from="1749116629777" duration="4230000" />
+      <workItem from="1749116629777" duration="4607000" />
     </task>
     <servers />
   </component>
