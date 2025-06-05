@@ -1,0 +1,29 @@
+[project]
+name = "jobtracker"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Ibrahim",email = "Selmentausen@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django (>=5.0,<6.0)",
+    "psycopg[binary] (>=3.2.9,<4.0.0)"
+]
+
+[tool.poetry]
+
+[tool.poetry.group.dev.dependencies]
+black = "^25.1.0"
+isort = "^6.0.1"
+ruff = "^0.11.12"
+pytest = "^8.4.0"
+pytest-django = "^4.11.1"
+factory-boy = "^3.3.3"
+coverage = "^7.8.2"
+pre-commit = "^4.2.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
